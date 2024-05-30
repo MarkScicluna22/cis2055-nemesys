@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Repositories",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\InvestigatorReport",
+    "\\Views\\Reports",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Nemesys.sln",
+  "PreviewInSolutionExplorer": false
+}
